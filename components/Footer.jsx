@@ -39,7 +39,7 @@ const Footer = () => (
             METAVERSE
           </h4>
           <p className="font-normal text-[14px] text-white opacity-50">
-           Metaversus.Made with ❤️ by Monazir Hassan Chishty.
+          Made with ❤️ by Monazir Hassan Chishty.
           </p>
 
           <div className="flex gap-4">
